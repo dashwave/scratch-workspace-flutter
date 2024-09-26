@@ -1,4 +1,4 @@
-# scratch_flutter
+# scratch_workspace_flutter
 
 A new Flutter project.
 
